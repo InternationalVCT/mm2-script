@@ -1,1 +1,1 @@
-# mm2-script
+USE ALT
